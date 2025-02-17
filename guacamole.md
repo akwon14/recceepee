@@ -1,6 +1,6 @@
 #Guacamole
 ##Ingredeients
-* avocaldo
-* lime
-* salt
+* chicken
+* chocolate
+* sugar
 ##Instructions
