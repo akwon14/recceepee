@@ -1,6 +1,6 @@
 #Guacamole
 ##Ingredeients
 * avocaldo
-* lemon
+* lime
 * salt
 ##Instructions
