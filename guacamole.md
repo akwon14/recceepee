@@ -1,5 +1,5 @@
-#Guacamole
-##Ingredeients
+# Guacamole
+## Ingredeients
 * avocaldo
 * lemon
 * salt
